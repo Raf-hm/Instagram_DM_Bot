@@ -7,4 +7,4 @@ A bot that wil automatically send a specific message to a list of accounts.
 4. Enter the usernames into `usernames.txt`.
 5. Run `main.py`.
 
-you can run multiple instances of the program as long as you use a different account.
+You can run multiple instances of the program as long as you use a different account.
