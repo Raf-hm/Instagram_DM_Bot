@@ -8,3 +8,5 @@ A bot that wil automatically send a specific message to a list of accounts.
 5. Run `main.py`.
 
 You can run multiple instances of the program as long as you use a different account.
+
+This program is specefic to the language setting on the computer. Its Dutch by standard.
